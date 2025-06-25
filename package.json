@@ -2,7 +2,7 @@
   "name": "yuki-bot",
   "version": "1.0.0",
   "main": "index.ts",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "start": "ts-node index.ts"
   },
